@@ -1,5 +1,3 @@
-Excelente! Aqui estão os scripts SQL para a nova lista de tarefas.
-
 Parte 1 – Junções e Produto Cartesiano (Seção 7)
 1. Usando a sintaxe proprietária da Oracle, exiba o nome de cada cliente junto com o número de sua conta.
 
